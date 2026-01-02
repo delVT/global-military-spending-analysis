@@ -11,5 +11,5 @@ Python, Pandas, Matplotlib
 - Data cleaning and preprocessing
 - Multi-source data integration
 - Feature engineering (per-capita and percentage metrics)
-- Exploratory data analysis (EDA)
+- Exploratory data analysis 
 - Data visualization and interpretation
